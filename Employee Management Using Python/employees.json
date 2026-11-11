@@ -1,0 +1,16 @@
+[
+  {
+    "employee_id": "1",
+    "name": "ali",
+    "age": 23,
+    "department": "bca",
+    "salary": 2000.0
+  },
+  {
+    "employee_id": "23",
+    "name": "rahul",
+    "age": 23,
+    "department": "bba",
+    "salary": 2333.0
+  }
+]
